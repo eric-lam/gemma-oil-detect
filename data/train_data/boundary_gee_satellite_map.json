@@ -1,0 +1,27 @@
+{
+  "generated_at_utc": "2026-05-18T07:01:26.857960+00:00",
+  "region_bbox": {
+    "min_lon": 101.41,
+    "max_lon": 154.77,
+    "min_lat": -26.07,
+    "max_lat": 21.12
+  },
+  "date_label": "2022-01-01",
+  "render_extent": {
+    "min_lon": 101.41,
+    "max_lon": 154.77,
+    "min_lat": -26.07,
+    "max_lat": 21.12
+  },
+  "coastline_source": "E:\\Files\\Wison\\DEV2\\gemma-oil-detect\\data\\coastline\\ne_10m_coastline.shp",
+  "basemap": {
+    "source": "Google Earth Engine ETOPO1 styled land/ocean basemap",
+    "earthengine_project": "gemma-oil-detect",
+    "thumbnail_url": "https://earthengine.googleapis.com/v1/projects/gemma-oil-detect/thumbnails/47d6fd789927752053414689684cba75-441ea071cdf82a815746686048864c15:getPixels"
+  },
+  "output_image": "E:\\Files\\Wison\\DEV2\\gemma-oil-detect\\data\\train_data\\boundary_gee_satellite_map.png",
+  "image_size": {
+    "width": 1200,
+    "height": 1061
+  }
+}
