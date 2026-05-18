@@ -4,6 +4,8 @@
 
 ## Overview
 
+![Example output — spill scenario map with SAR chip inset, drift vectors, and vessel track](example_output.png)
+
 This repository contains a submission-oriented oil-spill workflow for the Kaggle Gemma 4 Good Hackathon.
 
 Primary entry point:
