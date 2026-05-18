@@ -82,8 +82,10 @@ It will:
 
 ## Data Sources
 
-- Sentinel-1 SAR sample chips (ESA / Copernicus Sentinel-1 mission)
-   https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-1
+- Sentinel-1 SAR sample chips — CSIRO Sentinel-1 SAR Oil / No-Oil Image Dataset (CC BY-SA 4.0)
+   - Original authors: Blondeau-Patissier D., Schroeder T., Diakogiannis F., & Li Z. (CSIRO, 2022). DOI: [10.25919/4v55-dn16](https://doi.org/10.25919/4v55-dn16)
+   - Distributed on Kaggle by harikrishnacs: <https://www.kaggle.com/datasets/harikrishnacs/sentinel-1-sar-oil-spill-detection-dataset>
+   - License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — No changes were made to the dataset.
 - AMSA monthly AIS archives (Australian Maritime Safety Authority)
    https://www.amsa.gov.au/safety-navigation/navigation-systems/automatic-identification-system-ais
 - HYCOM sea-water velocity (Google Earth Engine)
