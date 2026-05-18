@@ -6,6 +6,10 @@
 
 ![Example output — spill scenario map with SAR chip inset, drift vectors, and vessel track](example_output.png)
 
+> **Responder Takeaway**
+> - **Spill Status:** Oil detected; current priority is low, but forecast priority is high due to predicted coastline intersection within 24 hours.
+> - **Vessel of Interest:** Cargo ship 2955689377 is the primary candidate based on proximity and timing relative to the inferred origin.
+
 This repository contains a submission-oriented oil-spill workflow for the Kaggle Gemma 4 Good Hackathon.
 
 Primary entry point:
