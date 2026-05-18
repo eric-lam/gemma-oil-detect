@@ -220,12 +220,6 @@ local/auth/
 data/test_data*/
 data/amsa_ais/2015_2022/
 
-# Large local artifacts (keep out of standard git pushes)
-best_models/
-raw_weight_files/
-data/train_data/
-data/amsa_ais/*.zip
-
 # Marimo
 marimo/_static/
 marimo/_lsp/

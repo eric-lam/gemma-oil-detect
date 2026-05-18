@@ -1,4 +1,4 @@
-# Marine Oil Spill Detection for the Gemma 4 Good Hackathon
+# Marine Oil Spill Detection & Reporting with Gemma4
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-Gemma%204%20Good%20Hackathon-blue)](https://www.kaggle.com/competitions/gemma-4-good-hackathon)
 
